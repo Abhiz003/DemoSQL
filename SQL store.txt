@@ -1015,6 +1015,11 @@ DELIMITER ;
 -- ------------------------------------------------------------------------------------------------------
 
 
+-- wrong insertion query------- for checking ---
+
+insert into guest_crew_info set Title='M where id ='V1F7B100001';
+
+
 
 
 
